@@ -9,6 +9,9 @@
 
 This data analysis project provides insight into Chair sales performance for the first and second quarter of the year 2020. By analysing various aspects of the sales , we gain deeper understanding of Sales performance and make decisions to improve Sales .
 
+![sales dashboard](https://github.com/user-attachments/assets/95e7b6ef-c296-459a-a475-82aa6479c871)
+
+
 ### Data Source 
 
 Store Sales data : The primary dataset used for this analysis is "store sales analysis"  file which contains detailed information about each sales made by the Store.
